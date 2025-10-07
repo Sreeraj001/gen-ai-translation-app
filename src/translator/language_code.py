@@ -1,0 +1,17 @@
+lan_code = {
+    'English': 'en',
+    'German': 'de',
+    'French': 'fr',
+    'Spanish': 'es',
+    'Chinese': 'zh',
+    'Japanese': 'ja',
+    'Russian': 'ru',
+    'Italian': 'it',
+    'Portuguese': 'pt',
+    'Malayalam': 'ml',
+    'Hindi': 'hi',
+    'Arabic': 'ar',
+    'Bengali': 'bn',
+    'Tamil': 'ta',
+    'Telugu': 'te',
+}
